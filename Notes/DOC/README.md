@@ -1,11 +1,11 @@
 # Lit
 
-En construccion..
+
 <img width="567" height="185" alt="Captura de pantalla 2025-10-16 a las 16 41 24" src="https://github.com/user-attachments/assets/91fd6799-d560-4351-a51b-7719a15edd4d" />
 
 
 **Lit es una librería sencilla para crear componentes web rápidos y ligeros.**
-
+En construccion..
 En el núcleo de Lit está una clase base que elimina el código repetitivo y que proporciona **estado reactivo**, **estilos encapsulados** y un sistema de plantillas declarativas que es pequeño, veloz y expresivo.
 
 ---
